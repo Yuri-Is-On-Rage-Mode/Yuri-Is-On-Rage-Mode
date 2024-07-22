@@ -1,10 +1,11 @@
 # 👋 Hi, I’m `Yuri-DaBang` aka `Yuri-Is-On-Rage-Mode`
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yuri-Is-On-Rage-Mode&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  
+
+*YOU MIGHT KNOW ME AS `YURI-DABANG`, BUT NOW I AM `Yuri-Is-On-Rage-Mode`*
 
 ## 🧑‍💻 About Me
-I am a logical and super logical programmer with lots of fun projects. My previous GitHub account `Yuri-DaBang` was hacked on 21-JULY-2024 😡😠🤬, and now I'm seeking revenge! I've created more than seven programming languages and spent a year mastering Python 🐍. Always ready to learn and share, I thrive in collaborative environments where innovation and teamwork lead to extraordinary outcomes.
+I'm a FURIOUS programmer with tons of cool projects. My GitHub account Yuri-DaBang got hacked on 21-JULY-2024 😡🤬, and I'm on a revenge spree! I've made seven programming languages and mastered Python 🐍. Besides coding, I'm sharpening my hacking skills and fighting moves—think of me as a digital ninja with a keyboard and a black belt 🥋💻. I love learning, sharing, and causing some chaos, especially in awesome, team-driven projects.
 
 ## 👀 Interests
 Hacking that jerk who stole my account 😤💻🔨. BTW, I love programming! Check out my previous work on `https://github.com/Yuri-DaBang`. I enjoy exploring new technologies, algorithms, and pushing the boundaries of what's possible.
