@@ -35,6 +35,7 @@ Feel free to check out my previous GitHub profile at `https://github.com/Yuri-Da
 - Support me on Patreon and contribute on GitHub if you want to join in the fun or just watch me go on a coding rampage! 🔮🚀
 - The latest projects will be posted on this account ONLY!
 
+*Have Fun with This Unstoppable Python! 🐍💥*
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
