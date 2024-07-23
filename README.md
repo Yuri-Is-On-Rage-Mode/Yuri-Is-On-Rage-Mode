@@ -1,4 +1,4 @@
-# 👋 Hi, I’m `Yuri-Is-On-Rage-Mode`
+# 👋 Hi, I’m `Yuri`
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yuri-Is-On-Rage-Mode&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
