@@ -1,6 +1,8 @@
 # 👋 Hi, I’m `Yuri`
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yuri-Is-On-Rage-Mode&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuri-Is-On-Rage-Mode&show_icons=true&hide_title=true)
+
 
 *YOU MIGHT KNOW ME AS `YURI-DABANG`, BUT NOW I AM `Yuri-Is-On-Rage-Mode`*
 
