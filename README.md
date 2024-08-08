@@ -31,6 +31,8 @@ I’m knee-deep in the battle for my account and love solving complex puzzles �
 - [Old and Currently Hacked GitHub Profile](https://github.com/Yuri-DaBang)
 - [Safe GitHub Profile](https://github.com/Yuri-Is-On-Rage-Mode)
 - [Patreon](https://patreon.com/akaYuri)
+
+  # I THINK THIS IS THE GUY WHO HACKED ME "https://github.com/Sanziee", HE IS THE #1 SUSPECT!
   
 
 Feel free to check out my previous GitHub profile at `https://github.com/Yuri-DaBang`, but don’t expect updates since 21-JULY-2024! It’s HACKED and GitHub support is doing NOTHING to fix it!!!!!!!! 😡
